@@ -2,7 +2,7 @@ name: "Podcast Generator"
 author: Sedki Ben Salem
 description: "Generates a feed for a podcast from a YAML file"
 runs:
-  using: "docker
+  using: "docker"
   image: "Dockerfile"
 branding:
   icon: "git-branch"
